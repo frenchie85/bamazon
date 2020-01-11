@@ -81,6 +81,7 @@ If you select no, connection to your MySQL ends Demo for Supervisor View
 ## Technologies used ##
 * Node.js
 * Javascript
+* MySQL
 * NPM packages: 
   console.table, 
   dotenv, 
