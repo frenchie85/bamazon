@@ -64,7 +64,7 @@ After each manage, you can choose to continue or exit by using the up and down a
 If you select no, connection to your MySQL ends Demo for Manager View
 
 Demo for Manager View
-![](assets/bamazonManger.gif)
+![](assets/bamazonManager.gif)
 
 ## Supervisor View ##
 Open up terminal
