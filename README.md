@@ -1,11 +1,11 @@
 
 # BAMAZON #
 ## Table of Content ##
-*Overview, *
-*Installation, *
-*Customer View, *
-*Manager View, *
-*Supervisor View, *
+*Overview,*
+*Installation,*
+*Customer View,*
+*Manager View,*
+*Supervisor View.*
 
 ## Overview ##
 BAMAZON is a *Node.js* command line interface that utilizez MySQL database to create a virtual store experience. Users can take on the role of either customer, manager, or supervisor and interact with the store through different commands.
@@ -86,7 +86,7 @@ If you select no, connection to your MySQL ends Demo for Supervisor View
   dotenv, 
   inquirer, 
   mysql, 
-  prompt, 
+  prompt. 
   
 ## Authors ##
 Sylvain David - Vanderbilt Bootcamp - 2019
