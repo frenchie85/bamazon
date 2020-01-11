@@ -17,7 +17,7 @@ Clone Bamazon to your local git repo like the following:
 
 The Bamazon project and its files should now be in your project folder.
 
-###Step 2: Install Dependencies###
+### Step 2: Install Dependencies ###
 Install the following dependencies listed in the *package.json* file:
 
 *inquirer*
