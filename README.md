@@ -86,11 +86,11 @@ Demo for Supervisor View
 * Node.js
 * Javascript
 * NPM packages: 
-  console.table
-  dotenv
-  inquirer
-  mysql
-  prompt
+  console.table, 
+  dotenv, 
+  inquirer, 
+  mysql, 
+  prompt, 
   
 ## Authors ##
 Sylvain David - Vanderbilt Bootcamp - 2019
